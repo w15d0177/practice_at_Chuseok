@@ -1,1 +1,2 @@
 # Chuseok-repository
+## git config
